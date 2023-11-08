@@ -8,7 +8,7 @@
 
 <div align="center">
 
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=Nord)](https://github.com/piyushsuthar/github-readme-quotes)
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github)](https://github.com/piyushsuthar/github-readme-quotes)
   
 </div>
 
