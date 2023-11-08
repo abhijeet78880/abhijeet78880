@@ -18,7 +18,7 @@
 <p align="center">
   <!-- <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287; -->
-  <a href="https://twitter.com"><img width="32px" alt="Twitter" title="Twitter" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"/></a>
+<!--   <a href="https://twitter.com"><img width="32px" alt="Twitter" title="Twitter" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Discord"><img width="36px" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -26,7 +26,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://github/abhijeet78880"><img width="32px" alt="Ko-fi" title="github" src="https://www.freeiconspng.com/thumbs/github-icon/git-github-hub-icon-25.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://instagram.com/abhijeet.78880"><img width="32px" alt="abhijeet.78880" title="instagram" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"/></a>
+  <a href="https://instagram.com/abhijeet.78880"><img width="32px" alt="abhijeet.78880" title="instagram" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"/></a> -->
 </p>
 
 
